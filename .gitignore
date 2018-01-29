@@ -1,0 +1,13 @@
+# idea
+.idea
+*.iml
+
+# build
+build
+classs
+out
+*.exe
+
+gradle
+.gradle
+
